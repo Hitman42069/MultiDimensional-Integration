@@ -1,0 +1,14 @@
+Iteration 1:
+0.18879046 +- 0.00287956	chisq 0.00000000
+Iteration 2:
+0.18871250 +- 0.00102163	chisq 0.00083859
+Iteration 3:
+0.18857832 +- 0.000435749	chisq 0.02192540
+Iteration 4:
+0.18856484 +- 0.000250971	chisq 0.02335633
+Iteration 5:
+0.18854723 +- 0.000175504	chisq 0.03300118
+Vegas Result:
+Number of Evaluations: 10000
+Number of Failed Evaluations: 0
+Final Result: 0.18854723 +- 0.00017550	chisq 0.03300118

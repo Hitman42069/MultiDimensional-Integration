@@ -1,0 +1,51 @@
+Iteration 1:
+-4.24593536 +- 0.0647619	chisq 0.00000000 (0 df)
+Iteration 2:
+-4.24035509 +- 0.0284517	chisq 0.05199129 (2 df)
+Iteration 3:
+-4.24211859 +- 0.0217132	chisq 0.09649342 (5 df)
+Iteration 4:
+-4.23989322 +- 0.0118108	chisq 0.15054081 (8 df)
+Iteration 5:
+-4.23930979 +- 0.0107434	chisq 0.55362180 (12 df)
+Iteration 6:
+-4.24096487 +- 0.009707	chisq 3.32619670 (16 df)
+Iteration 7:
+-4.23734958 +- 0.00899409	chisq 3.89365870 (20 df)
+Iteration 8:
+-4.23598216 +- 0.00799714	chisq 4.54616865 (24 df)
+Iteration 9:
+-4.23812130 +- 0.00754137	chisq 7.11546132 (29 df)
+Iteration 10:
+-4.24099102 +- 0.00717813	chisq 11.04268851 (34 df)
+Iteration 11:
+-4.24029126 +- 0.00686058	chisq 15.98967809 (39 df)
+Iteration 12:
+-4.24054649 +- 0.00647695	chisq 17.91851851 (44 df)
+Iteration 13:
+-4.24099673 +- 0.00612678	chisq 19.44248154 (49 df)
+Iteration 14:
+-4.24205765 +- 0.00578368	chisq 20.86210338 (54 df)
+Iteration 15:
+-4.24207315 +- 0.00539848	chisq 23.88922196 (59 df)
+Iteration 16:
+-4.24149611 +- 0.0050921	chisq 30.60045838 (64 df)
+Iteration 17:
+-4.24159737 +- 0.00482842	chisq 30.92395882 (70 df)
+Iteration 18:
+-4.24048351 +- 0.0046733	chisq 39.06719538 (76 df)
+Iteration 19:
+-4.23909742 +- 0.00458639	chisq 41.68827230 (82 df)
+Iteration 20:
+-4.23921516 +- 0.00442731	chisq 47.70761603 (88 df)
+Iteration 21:
+-4.24004676 +- 0.00434193	chisq 68.73752297 (94 df)
+Iteration 22:
+-4.23932190 +- 0.00426875	chisq 74.13159165 (100 df)
+Iteration 23:
+-4.23891801 +- 0.00417648	chisq 92.30855643 (106 df)
+Suave Result:
+Number of Regions: 23
+Number of Evaluations: 23000
+Number of Failed Evaluations: 0
+Final Result: 0.83617078 +- 46.15427822	chisq 0.85932829 (106 df)

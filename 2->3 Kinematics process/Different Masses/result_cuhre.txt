@@ -1,0 +1,9 @@
+Iteration 1:
+0.18850763 +- 1.03521e-07	chisq 0.00000000 (0 df)
+Iteration 2:
+0.18850763 +- 3.0085e-09	chisq 0.00068441 (1 df)
+Cuhre Result:
+Number of Regions: 2
+Number of Evaluations: 819
+Number of Failed Evaluations: 0
+Final Result: 0.18850763 +- 0.00000000	chisq 0.00068441	p = 0.0209

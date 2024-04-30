@@ -1,0 +1,19 @@
+Iteration 1:
+0.03558794 +- 5.6427e-05
+Iteration 2:
+0.03558768 +- 5.03606e-05
+Iteration 3:
+0.03558744 +- 4.35049e-05
+Iteration 4:
+0.03558792 +- 3.75187e-05
+Iteration 5:
+0.03558774 +- 3.08138e-05
+Iteration 6:
+0.03558786 +- 2.82815e-05
+Iteration 7:
+0.03558797 +- 2.55018e-05
+Divonne Result:
+Number of Regions: 14
+Samples per Regions: 97
+Number of Evaluations: 1891
+Final Result: 0.03558807 +- 0.00000000	p = 0.0000

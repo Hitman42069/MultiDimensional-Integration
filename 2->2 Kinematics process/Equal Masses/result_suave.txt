@@ -1,0 +1,23 @@
+Iteration 1:
+0.03934122 +- 0.000599718	chisq 0.00000000 (0 df)
+Iteration 2:
+0.03937633 +- 0.000257041	chisq 0.00296133 (2 df)
+Iteration 3:
+0.03935245 +- 0.000193448	chisq 0.08049297 (5 df)
+Iteration 4:
+0.03933584 +- 9.22804e-05	chisq 0.09493483 (8 df)
+Iteration 5:
+0.03933976 +- 7.97042e-05	chisq 2.67303177 (12 df)
+Iteration 6:
+0.03933613 +- 6.66831e-05	chisq 7.90177871 (16 df)
+Iteration 7:
+0.03929731 +- 5.86967e-05	chisq 13.79413093 (20 df)
+Iteration 8:
+0.03927848 +- 4.5649e-05	chisq 16.46208864 (24 df)
+Iteration 9:
+0.03928241 +- 3.76037e-05	chisq 16.96377576 (29 df)
+Suave Result:
+Number of Regions: 9
+Number of Evaluations: 9000
+Number of Failed Evaluations: 0
+Final Result: 0.83569067 +- 0.84358194	chisq 8.48188788 (29 df)
